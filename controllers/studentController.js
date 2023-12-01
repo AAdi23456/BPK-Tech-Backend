@@ -40,7 +40,7 @@ class StudentController {
       );
       return student;
     } catch (error) {
-      throw error;
+      throw error
     }
   }
 
